@@ -77,12 +77,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko" />
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=merko" />
 
-## 🌈 Top Languages  
+## 🌈 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
-## 🕹️ Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66A6FF,100:89F7FE&height=150&section=footer"/>
-</p>
+## 🕹️ Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true" />
