@@ -71,37 +71,17 @@
 ---
 
 ## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anujghare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
-
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 ## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujghare&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujghare&theme=merko&hide_border=false" height="170px"/>
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=merko" />
 
 ## 🌈 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujghare&layout=compact&theme=tokyonight" />
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
 ## 🕹️ Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujghare&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66A6FF,100:89F7FE&height=150&section=footer"/>
