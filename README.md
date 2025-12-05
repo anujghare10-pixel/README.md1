@@ -70,15 +70,15 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=anujghare10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=anujghare10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=anujghare10&show_icons=true&theme=merko" />
-<img src="https://streak-stats.demolab.com?user=anujghare10&theme=merko" />
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=anujghare10&show_icons=true&theme=merko&hide_border=false" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=anujghare10&theme=merko" alt="GitHub Streak" />
 
 ## 🌈 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujghare10&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujghare10&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ## 🕹️ Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujghare10&theme=react-dark&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujghare10&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
