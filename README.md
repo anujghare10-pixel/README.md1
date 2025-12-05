@@ -51,19 +51,19 @@
 <p align="center">
   ✨ Connect with me ✨ <br><br>
 
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/anujghare10">
     <img src="https://img.shields.io/badge/Instagram-💜%20Magenta?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/anujghare10/">
     <img src="https://img.shields.io/badge/LinkedIn-🔵%20Blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:anujghare@gmail.com">
+  <a href="mailto:anujghare10@gmail.com">
     <img src="https://img.shields.io/badge/Email-✉️%20Gmail?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/anujghare">
+  <a href="https://github.com/anujghare10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -71,14 +71,14 @@
 ---
 
 ## 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=anujghare10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko" />
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=anujghare10&show_icons=true&theme=merko" />
+<img src="https://streak-stats.demolab.com?user=anujghare10&theme=merko" />
 
 ## 🌈 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujghare10&layout=compact&theme=tokyonight" />
 
 ## 🕹️ Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anujghare10&theme=react-dark&area=true&hide_border=true" />
